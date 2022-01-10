@@ -4,19 +4,19 @@
 }
 ::-moz-selection {
     background-color: #fff;
-    color: #385780;
+    color: #118C4F;
 }
 ::selection {
     background-color: #fff;
-    color: #385780;
+    color: #118C4F;
 }
 html {
-    background-color: #213b5c;
+    background-color: #118C4F;
 }
 body {
     text-align: center;
     background-color: #118c4f;
-    color: #afbccc;
+    color: #118C4F;
     font-family: sans-serif;
     font-weight: 300;
     font-size: 16px;
